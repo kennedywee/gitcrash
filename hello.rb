@@ -1,8 +1,8 @@
-puts "Add number program"
-
 def add(x, y)
   x + y
 end
+
+puts "Add number program by Kennedy Wee"
 
 puts "Enter first number: "
 input_x = gets.chomp.to_i
