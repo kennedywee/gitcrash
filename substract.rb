@@ -2,7 +2,7 @@ def substract(x, y)
   x - y
 end
 
-puts "Substract number program by Kennedy Wee"
+puts "Substract number program"
 
 puts "Enter first number: "
 input_x = gets.chomp.to_i
